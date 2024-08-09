@@ -1,1 +1,0 @@
-A folder containing napkin sketches for proposed renders
