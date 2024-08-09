@@ -1,0 +1,1 @@
+Folder for 2D infographics. Infographics can be defined by sketches. The sketch in this example was AI generated using Stable Diffusion.
