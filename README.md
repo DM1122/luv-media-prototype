@@ -5,4 +5,4 @@ A prototype skeleton repository to manage media content for the LUV program. The
 - animations: for generated video animations of 3D models.
 - infographics: for 2D infographics and timeline drawings.
 
-See the `README.md` files in each folder for more details. Leveraging Gitlab facilitates back-and-forth collaboration with the art team.
+See the `README.md` files in each folder for more details. Leveraging Gitlab facilitates back-and-forth collaboration with the art team, even during the early concept stage.
