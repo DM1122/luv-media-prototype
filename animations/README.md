@@ -1,1 +1,1 @@
-Folder for video animations. Animations can be defined via storyboards or textual narratives. Video files should be stored on mass storage platform (sharepoint) and traced via URL permalink (pointing to latest revision).
+Folder for video animations. Animations can be defined via storyboards or conops drawings. Video should not be stored in git due to lack of diff compression for binary files, instead, video files should be stored on mass storage platform (sharepoint) and traced via URL permalink (pointing to latest revision).
