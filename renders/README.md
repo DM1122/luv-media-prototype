@@ -1,0 +1,1 @@
+Folder for image renders. Renders can be defined by sketches or diagrams.
